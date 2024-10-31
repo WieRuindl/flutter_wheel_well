@@ -1,0 +1,60 @@
+{
+  "category": "Recreation and Fun",
+  "questions": [
+    {
+      "text": "How often do you dedicate time to hobbies or leisure activities that you enjoy?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How many times per month do you participate in activities purely for fun or relaxation?",
+      "answers": [
+        { "text": "0 times", "score": 0 },
+        { "text": "1-2 times", "score": 1 },
+        { "text": "3-4 times", "score": 2 },
+        { "text": "5-6 times", "score": 3 },
+        { "text": "More than 6 times", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you take breaks during your day to recharge?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very often", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How satisfied are you with the amount of recreational activities you have in your life?",
+      "answers": [
+        { "text": "Very dissatisfied", "score": 0 },
+        { "text": "Dissatisfied", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Satisfied", "score": 3 },
+        { "text": "Very satisfied", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How comfortable do you feel taking time off from work or responsibilities for leisure activities?",
+      "answers": [
+        { "text": "Very uncomfortable", "score": 0 },
+        { "text": "Uncomfortable", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Comfortable", "score": 3 },
+        { "text": "Very comfortable", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

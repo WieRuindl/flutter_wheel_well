@@ -1,0 +1,60 @@
+{
+  "category": "Emotional Well-Being",
+  "questions": [
+    {
+      "text": "How often do you feel in control of your emotions?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Always", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How frequently do you experience feelings of stress or anxiety?",
+      "answers": [
+        { "text": "Very frequently", "score": 0 },
+        { "text": "Often", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Rarely", "score": 3 },
+        { "text": "Almost never", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you feel satisfied with your emotional health?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Always", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you make time for activities that boost your mood (e.g., hobbies, relaxation, socializing)?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How effectively do you cope with negative emotions when they arise?",
+      "answers": [
+        { "text": "Not at all effectively", "score": 0 },
+        { "text": "Slightly effectively", "score": 1 },
+        { "text": "Moderately effectively", "score": 2 },
+        { "text": "Effectively", "score": 3 },
+        { "text": "Very effectively", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

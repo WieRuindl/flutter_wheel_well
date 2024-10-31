@@ -1,0 +1,60 @@
+{
+  "category": "Personal Growth and Development",
+  "questions": [
+    {
+      "text": "How many hours per week do you spend on learning new skills or pursuing knowledge?",
+      "answers": [
+        { "text": "0 hours", "score": 0 },
+        { "text": "1-2 hours", "score": 1 },
+        { "text": "3-5 hours", "score": 2 },
+        { "text": "6-8 hours", "score": 3 },
+        { "text": "More than 8 hours", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you set personal goals for self-improvement?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How comfortable are you stepping outside of your comfort zone to try new experiences?",
+      "answers": [
+        { "text": "Very uncomfortable", "score": 0 },
+        { "text": "Uncomfortable", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Comfortable", "score": 3 },
+        { "text": "Very comfortable", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How frequently do you take time for self-reflection on your thoughts, actions, and growth?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very often", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How satisfied are you with the balance between work and activities that contribute to your personal development?",
+      "answers": [
+        { "text": "Very dissatisfied", "score": 0 },
+        { "text": "Dissatisfied", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Satisfied", "score": 3 },
+        { "text": "Very satisfied", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

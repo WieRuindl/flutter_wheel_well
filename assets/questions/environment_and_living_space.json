@@ -1,0 +1,60 @@
+{
+  "category": "Environment and Living Space",
+  "questions": [
+    {
+      "text": "How satisfied are you with the cleanliness and organization of your living space?",
+      "answers": [
+        { "text": "Very dissatisfied", "score": 0 },
+        { "text": "Dissatisfied", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Satisfied", "score": 3 },
+        { "text": "Very satisfied", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you spend time in nature or outdoor spaces?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How comfortable do you feel in your home environment?",
+      "answers": [
+        { "text": "Very uncomfortable", "score": 0 },
+        { "text": "Uncomfortable", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Comfortable", "score": 3 },
+        { "text": "Very comfortable", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How accessible are resources like grocery stores, parks, and transportation from your home?",
+      "answers": [
+        { "text": "Very inaccessible", "score": 0 },
+        { "text": "Somewhat inaccessible", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Accessible", "score": 3 },
+        { "text": "Very accessible", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How well does your living space meet your needs (e.g., space, lighting, amenities)?",
+      "answers": [
+        { "text": "Not at all", "score": 0 },
+        { "text": "Slightly", "score": 1 },
+        { "text": "Moderately", "score": 2 },
+        { "text": "Well", "score": 3 },
+        { "text": "Very well", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

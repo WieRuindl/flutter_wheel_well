@@ -1,0 +1,60 @@
+{
+  "category": "Spirituality and Meaning",
+  "questions": [
+    {
+      "text": "How often do you take time to reflect on your purpose or what gives meaning to your life?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very often", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How connected do you feel to something larger than yourself, whether that be through religion, spirituality, or nature?",
+      "answers": [
+        { "text": "Not at all connected", "score": 0 },
+        { "text": "Slightly connected", "score": 1 },
+        { "text": "Somewhat connected", "score": 2 },
+        { "text": "Connected", "score": 3 },
+        { "text": "Very connected", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How frequently do you engage in practices (e.g., meditation, prayer, rituals) that nurture your sense of spirituality or purpose?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How satisfied are you with the current level of purpose or meaning in your life?",
+      "answers": [
+        { "text": "Very dissatisfied", "score": 0 },
+        { "text": "Dissatisfied", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Satisfied", "score": 3 },
+        { "text": "Very satisfied", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you engage in activities that align with your core values or sense of purpose?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very often", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

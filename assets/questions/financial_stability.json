@@ -1,0 +1,60 @@
+{
+  "category": "Financial Stability",
+  "questions": [
+    {
+      "text": "How frequently do you review and update your budget or financial plan?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Once a year", "score": 1 },
+        { "text": "Every few months", "score": 2 },
+        { "text": "Monthly", "score": 3 },
+        { "text": "Weekly", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "What percentage of your monthly income do you typically save or invest?",
+      "answers": [
+        { "text": "0%", "score": 0 },
+        { "text": "1-5%", "score": 1 },
+        { "text": "6-10%", "score": 2 },
+        { "text": "11-20%", "score": 3 },
+        { "text": "More than 20%", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How comfortable do you feel about your current level of debt or credit management?",
+      "answers": [
+        { "text": "Very Uncomfortable", "score": 0 },
+        { "text": "Uncomfortable", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Comfortable", "score": 3 },
+        { "text": "Very Comfortable", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How frequently do you track your spending to stay within your budget?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Occasionally", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Always", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How prepared do you feel to handle unexpected expenses (e.g., medical, car repairs)?",
+      "answers": [
+        { "text": "Not at all prepared", "score": 0 },
+        { "text": "Slightly prepared", "score": 1 },
+        { "text": "Somewhat prepared", "score": 2 },
+        { "text": "Well prepared", "score": 3 },
+        { "text": "Very well prepared", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

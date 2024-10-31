@@ -1,0 +1,161 @@
+{
+  "category": "Health and Wellness",
+  "questions": [
+    {
+      "text": "How many days per week do you engage in at least 30 minutes of physical activity (e.g., walking, running, sports)?",
+      "answers": [
+        {
+          "text": "0 days",
+          "score": 0
+        },
+        {
+          "text": "1-2 days",
+          "score": 1
+        },
+        {
+          "text": "3-4 days",
+          "score": 2
+        },
+        {
+          "text": "5-6 days",
+          "score": 3
+        },
+        {
+          "text": "7 days",
+          "score": 4
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "On average, how many hours of sleep do you get per night?",
+      "answers": [
+        {
+          "text": "Less than 5 hours",
+          "score": 0
+        },
+        {
+          "text": "5-6 hours",
+          "score": 1
+        },
+        {
+          "text": "6-7 hours",
+          "score": 2
+        },
+        {
+          "text": "7-8 hours",
+          "score": 3
+        },
+        {
+          "text": "More than 8 hours",
+          "score": 4
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How many meals per day include a source of protein, vegetables, and whole grains?",
+      "answers": [
+        {
+          "text": "0 meals",
+          "score": 0
+        },
+        {
+          "text": "1 meal",
+          "score": 1
+        },
+        {
+          "text": "2 meals",
+          "score": 2
+        },
+        {
+          "text": "3 meals",
+          "score": 3
+        },
+        {
+          "text": "All meals",
+          "score": 4
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How many cups of water do you drink per day?",
+      "answers": [
+        {
+          "text": "Less than 2 cups",
+          "score": 0
+        },
+        {
+          "text": "2-3 cups",
+          "score": 1
+        },
+        {
+          "text": "4-5 cups",
+          "score": 2
+        },
+        {
+          "text": "6-7 cups",
+          "score": 3
+        },
+        {
+          "text": "8 or more cups",
+          "score": 4
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How many minutes before bed do you avoid screens (phones, TVs, computers)?",
+      "answers": [
+        {
+          "text": "0 minutes",
+          "score": 0
+        },
+        {
+          "text": "1-15 minutes",
+          "score": 1
+        },
+        {
+          "text": "15-30 minutes",
+          "score": 2
+        },
+        {
+          "text": "30-60 minutes",
+          "score": 3
+        },
+        {
+          "text": "More than 1 hour",
+          "score": 4
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How many days per week do you engage in activities specifically for relaxation (e.g., meditation, reading, hobbies)?",
+      "answers": [
+        {
+          "text": "0 days",
+          "score": 0
+        },
+        {
+          "text": "1-2 days",
+          "score": 1
+        },
+        {
+          "text": "3-4 days",
+          "score": 2
+        },
+        {
+          "text": "5-6 days",
+          "score": 3
+        },
+        {
+          "text": "7 days",
+          "score": 4
+        }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

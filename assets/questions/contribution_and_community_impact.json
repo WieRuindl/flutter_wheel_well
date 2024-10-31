@@ -1,0 +1,60 @@
+{
+  "category": "Contribution and Community Impact",
+  "questions": [
+    {
+      "text": "How frequently do you participate in activities that contribute to your community (e.g., volunteering, helping others)?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you help friends, family, or neighbors with small acts of kindness?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Sometimes", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very often", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How satisfied are you with your impact on the world around you?",
+      "answers": [
+        { "text": "Very dissatisfied", "score": 0 },
+        { "text": "Dissatisfied", "score": 1 },
+        { "text": "Neutral", "score": 2 },
+        { "text": "Satisfied", "score": 3 },
+        { "text": "Very satisfied", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How often do you engage in environmental or charitable efforts (e.g., recycling, donations)?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very frequently", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How much of a priority is making a positive difference in your community or the world to you?",
+      "answers": [
+        { "text": "Not a priority at all", "score": 0 },
+        { "text": "Low priority", "score": 1 },
+        { "text": "Moderate priority", "score": 2 },
+        { "text": "High priority", "score": 3 },
+        { "text": "Top priority", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "category": "Relationships and Social Life",
+  "questions": [
+    {
+      "text": "How often do you spend quality time with close friends or family?",
+      "answers": [
+        { "text": "Rarely or never", "score": 0 },
+        { "text": "Once a month", "score": 1 },
+        { "text": "A few times a month", "score": 2 },
+        { "text": "Weekly", "score": 3 },
+        { "text": "Daily or almost daily", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How many meaningful conversations do you have with friends or family in an average week?",
+      "answers": [
+        { "text": "None", "score": 0 },
+        { "text": "1-2 conversations", "score": 1 },
+        { "text": "3-5 conversations", "score": 2 },
+        { "text": "6-10 conversations", "score": 3 },
+        { "text": "More than 10 conversations", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How supported do you feel by your friends and family when facing challenges?",
+      "answers": [
+        { "text": "Not at all supported", "score": 0 },
+        { "text": "Slightly supported", "score": 1 },
+        { "text": "Somewhat supported", "score": 2 },
+        { "text": "Supported", "score": 3 },
+        { "text": "Very supported", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How frequently do you engage in group activities or social events?",
+      "answers": [
+        { "text": "Never", "score": 0 },
+        { "text": "Rarely", "score": 1 },
+        { "text": "Occasionally", "score": 2 },
+        { "text": "Often", "score": 3 },
+        { "text": "Very often", "score": 4 }
+      ],
+      "maxScore": 4
+    },
+    {
+      "text": "How open do you feel in expressing your thoughts and emotions with others?",
+      "answers": [
+        { "text": "Very closed", "score": 0 },
+        { "text": "Mostly closed", "score": 1 },
+        { "text": "Somewhat open", "score": 2 },
+        { "text": "Open", "score": 3 },
+        { "text": "Very open", "score": 4 }
+      ],
+      "maxScore": 4
+    }
+  ]
+}
