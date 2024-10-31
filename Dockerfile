@@ -6,6 +6,7 @@ WORKDIR /app
 
 # # Copy the pubspec.yaml and pubspec.lock files to cache dependencies
 COPY pubspec.* ./
+COPY assets/* ./assets/
 
 # # Get the Flutter dependencies
 RUN flutter pub get
@@ -22,6 +23,8 @@ FROM nginx:alpine
 
 # Copy the Flutter web build files to the NGINX web directory
 COPY --from=build app/build/web /usr/share/nginx/html
+COPY --from=build app/build/web/assets /usr/share/nginx/html/assets
+COPY --from=build app/assets /usr/share/nginx/html/assets
 #COPY --from=build nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
