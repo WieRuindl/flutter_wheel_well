@@ -1,5 +1,6 @@
 # # Step 1: Use the official Flutter image to build the Flutter web app
-FROM ghcr.io/cirruslabs/flutter:3.24.3 AS build
+FROM ghcr.io/cirruslabs/flutter:3.24.4 AS build
+
 # # Set the working directory inside the container
 WORKDIR /app
 
