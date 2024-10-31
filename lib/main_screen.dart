@@ -48,7 +48,10 @@ class _MainScreenState extends State<MainScreen> {
 
     final Map<String, double> scores = {};
     for (var entry in data) {
-      scores.putIfAbsent(entry["category"]!.toString(), () => double.parse(entry["value"]!.toString()));
+      scores.putIfAbsent(
+          entry["category"]!.toString(),
+          () => double.parse(entry["value"]!.toString())
+      );
     }
 
     return Column(
