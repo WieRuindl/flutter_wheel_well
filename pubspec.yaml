@@ -22,5 +22,5 @@ flutter:
   uses-material-design: true
 
 assets:
-  - questions/
-  - categories.json
+  - assets/questions/
+  - assets/categories.json
